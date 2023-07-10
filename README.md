@@ -39,3 +39,6 @@
 - Re-design the flexbox in css
 - Insert Images
  
+---
+
+##### Created as a project in the Front-End Engineer Career Paths course at Codecademy By Eunji Lee, 2023
