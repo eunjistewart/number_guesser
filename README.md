@@ -11,7 +11,7 @@
 
 ## Screen Shots (images)
 
-![screen shot of number guessing game](./images/number_guesser)
+![screen shot of number guessing game](/images/number_guesser)
 
 ---
 
