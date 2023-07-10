@@ -42,4 +42,4 @@
 
 ---
 ## Reference Link Section
-[ng]: https://eunjistewart.github.io/number_guesser/ "number guessing game"
+[ng]: https://eunjistewart.github.io/number_guesser/ 
