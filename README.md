@@ -11,7 +11,7 @@
 
 ## Screen Shots (images)
 
-![screen shot of number guessing game](https://github.com/eunjistewart/number_guesser/images/number_guesser1.png)
+![screen shot of number guessing game](./images/number_guesser1.png)
 
 ---
 
