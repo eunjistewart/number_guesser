@@ -11,7 +11,7 @@
 
 ## Screen Shots (images)
 
-![screen shot of number guessing game](/images/number_guesser)
+![screen shot of number guessing game](https://github.com/eunjistewart/number_guesser/images/number_guesser1.png)
 
 ---
 
@@ -25,8 +25,7 @@
 
 ## Getting Started
 
-1.  Go to the game link
-    [Link](## Link to play the game here)
+1.  Go to the game [link](https://eunjistewart.github.io/number_guesser/)
 2.  Start playing the game by selecting a number that you are trying to guess
 3.  There are two ways to enter your number. You can use the arrows to select the number between 0 and 9, or just type it in manually.
 4.  If your guessed number is closer to the secret target number than the distance between the computer's guessed number and the secret target number, then you win the game! If the latter is closer, then the computer wins! Good Luck!
