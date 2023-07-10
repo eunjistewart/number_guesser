@@ -5,13 +5,13 @@
 
 ## Link to play the game here
 
-[number_guesser](ng)
+[number_guesser](https://eunjistewart.github.io/number_guesser/)
 
 ---
 
 ## Screen Shots (images)
 
-![screen shot of number guessing game](https://eunjistewart.github.io/number_guesser/images/number_guesser)
+![screen shot of number guessing game](./images/number_guesser)
 
 ---
 
@@ -39,7 +39,4 @@
 
 - Re-design the flexbox in css
 - Insert Images
-
----
-## Reference Link Section
-[ng]: https://eunjistewart.github.io/number_guesser/ 
+ 
